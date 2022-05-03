@@ -1,6 +1,6 @@
-# EXP. NO: 02
+## EXP. NO: 02
 
-# DATE: 
+## DATE: 
 
 
 # <p align = "center"> RANDOM CLASSIFICATION </p>
